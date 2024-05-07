@@ -221,3 +221,4 @@ C:\Users\ca.r214.18\Desktop\MultiShop\WebApplication1\WebApplication1\obj\Debug\
 C:\Users\ca.r214.18\Desktop\MultiShop\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\ca.r214.18\Desktop\MultiShop\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
 C:\Users\ca.r214.18\Desktop\MultiShop\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\ca.r214.18\Desktop\MultiShop\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

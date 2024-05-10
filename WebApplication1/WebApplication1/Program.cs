@@ -1,3 +1,5 @@
+using WebApplication1.DataAccesLayer;
+
 namespace WebApplication1
 {
     public class Program
@@ -6,10 +8,11 @@ namespace WebApplication1
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddDbContext<MultiShopContext>();
             var app = builder.Build();
 
-            app.MapControllerRoute("default", "{controller=Home}/{action=Index}");
+            app.MapControllerRoute(name: "areas", pattern: "{area:exists}/{controller=Slider}/{action=Index}/{id?}" );
+            app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
             app.UseStaticFiles();
             app.Run();
         }

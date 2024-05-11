@@ -12,6 +12,7 @@ namespace WebApplication1
             var app = builder.Build();
 
             app.MapControllerRoute(name: "areas", pattern: "{area:exists}/{controller=Slider}/{action=Index}/{id?}" );
+            app.MapControllerRoute(name: "areas", pattern: "{area:exists}/{controller=Categories}/{action=Index}/{id?}" );
             app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
             app.UseStaticFiles();
             app.Run();

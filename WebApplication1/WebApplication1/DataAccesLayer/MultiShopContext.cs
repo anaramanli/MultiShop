@@ -16,7 +16,7 @@ namespace WebApplication1.DataAccesLayer
         public DbSet<Sliders> Sliders { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseSqlServer("Server=CA-R214-PC18\\SQLEXPRESS;Database=MultiShop;Trusted_Connection=true;TrustServerCertificate=True");
+            options.UseSqlServer("Server=WINDOWS-TPN1V5P\\SQLEXPRESS;Database=MultiShop;Trusted_Connection=true;TrustServerCertificate=True");
             base.OnConfiguring(options);
         }
     }

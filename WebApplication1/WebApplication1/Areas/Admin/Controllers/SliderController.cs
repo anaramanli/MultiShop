@@ -17,7 +17,7 @@ namespace WebApplication1.Areas.Admin.Controllers
 				{
 					Id = s.Id,
 					ImageUrl = s.ImageUrl,
-					Subtitle = s.Title,
+					Subtitle = s.Subtitle,
 					Title = s.Title
 				}).ToListAsync();
 			return View(data ?? new List<GetSliderVM>());
@@ -63,7 +63,7 @@ namespace WebApplication1.Areas.Admin.Controllers
 			return View(updateSliderVM);
 		}
 		[HttpPost]
-		public async Task<IActionResult> Update(int? id,UpdateSliderVM sliderVm)
+		public async Task<IActionResult> Update(int? id, UpdateSliderVM sliderVm)
 		{
 			if (id == null || id < 1) return BadRequest();
 			Sliders existed = await _context.Sliders.FirstOrDefaultAsync(s=>s.Id == id);

@@ -1,81 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\multishop\\webapplication1\\webapplication1\\migrations\\20240511194924_addingimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240511194924_addingimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.18\\desktop\\multishop\\multishop\\webapplication1\\webapplication1\\dataacceslayer\\multishopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataacceslayer\\multishopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\migrations\\20240509085003_categoriestablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240509085003_categoriestablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\multishop\\webapplication1\\webapplication1\\migrations\\20240509133753_createdsliderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240509133753_createdsliderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\viewmodels\\categoriesvm\\createcategoriesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\categoriesvm\\createcategoriesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\viewmodels\\categoriesvm\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\categoriesvm\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\viewmodels\\categoriesvm\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\categoriesvm\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\viewmodels\\sliders\\updateslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\sliders\\updateslidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.18\\desktop\\multishop\\multishop\\webapplication1\\webapplication1\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\categories\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|c:\\users\\ca.r214.18\\desktop\\multishop\\multishop\\webapplication1\\webapplication1\\viewmodels\\categoriesvm\\createcategoriesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\categoriesvm\\createcategoriesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\viewmodels\\categoriesvm\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\categoriesvm\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\webapplication1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1BF87030-DDC0-466A-B6CC-B3EA32C1D3F6}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -86,15 +62,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,201 +79,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAE0AAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T08:30:23.126Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-11T14:22:09.178Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T12:49:12.938Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240509133753_CreatedSlidersTable.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Migrations\\20240509133753_CreatedSlidersTable.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240509133753_CreatedSlidersTable.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Migrations\\20240509133753_CreatedSlidersTable.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20240509133753_CreatedSlidersTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T20:02:02.877Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml*",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T09:05:57.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240511194924_AddingImg.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Migrations\\20240511194924_AddingImg.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240511194924_AddingImg.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Migrations\\20240511194924_AddingImg.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20240511194924_AddingImg.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "MultiShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\DataAccesLayer\\MultiShopContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccesLayer\\MultiShopContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\DataAccesLayer\\MultiShopContext.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccesLayer\\MultiShopContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T19:49:24.408Z",
+              "WhenOpened": "2024-05-13T08:28:28.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240509085003_CategoriesTableCreated.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Migrations\\20240509085003_CategoriesTableCreated.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240509085003_CategoriesTableCreated.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Migrations\\20240509085003_CategoriesTableCreated.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20240509085003_CategoriesTableCreated.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T19:47:16.487Z",
+              "WhenOpened": "2024-05-11T08:30:23.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CreateCategoriesVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\CreateCategoriesVM.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\CreateCategoriesVM.cs",
               "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\CategoriesVm\\CreateCategoriesVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\CreateCategoriesVM.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\CreateCategoriesVM.cs",
               "RelativeToolTip": "WebApplication1\\ViewModels\\CategoriesVm\\CreateCategoriesVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T19:45:19.73Z"
+              "WhenOpened": "2024-05-13T07:47:42.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetCategoryVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\GetCategoryVM.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\CategoriesVm\\GetCategoryVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\GetCategoryVM.cs",
-              "RelativeToolTip": "WebApplication1\\ViewModels\\CategoriesVm\\GetCategoryVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T19:44:09.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T10:37:46.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Categories\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T18:36:47.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateCategoryVm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\UpdateCategoryVm.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\CategoriesVm\\UpdateCategoryVm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\UpdateCategoryVm.cs",
-              "RelativeToolTip": "WebApplication1\\ViewModels\\CategoriesVm\\UpdateCategoryVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:39:11.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateSliderVm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\Sliders\\UpdateSliderVm.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\Sliders\\UpdateSliderVm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\Sliders\\UpdateSliderVm.cs",
-              "RelativeToolTip": "WebApplication1\\ViewModels\\Sliders\\UpdateSliderVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:40:38.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T13:59:00.158Z"
+              "WhenOpened": "2024-05-11T18:36:47.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "UpdateCategoryVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\UpdateCategoryVm.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\CategoriesVm\\UpdateCategoryVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\ViewModels\\CategoriesVm\\UpdateCategoryVm.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\CategoriesVm\\UpdateCategoryVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:39:11.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T13:56:27.418Z"
+              "WhenOpened": "2024-05-11T13:56:27.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T18:40:18.05Z"
+              "WhenOpened": "2024-05-11T18:40:18.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAABUAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -305,23 +209,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Models\\Category.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Models\\Category.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T13:01:46.691Z"
+              "WhenOpened": "2024-05-11T13:01:46.691Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.18\\Desktop\\MultiShop\\MultiShop\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

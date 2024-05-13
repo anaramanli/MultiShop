@@ -7,7 +7,8 @@ namespace WebApplication1.ViewModels.Sliders
 
 		[MaxLength(32), Required]
 		public string Name { get; set; }
-		//[Required]
-		//public string ImageUrl { get; set; }
+		[Required]
+		public IFormFile ImageFile { get; set; }
+
 	}
 }
